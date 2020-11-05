@@ -1,0 +1,5 @@
+# Rename this file to config.py and enter the values below
+
+CLIENT_ID = <your-client-id>
+OAUTH_TOKEN = <your-oauth-token>
+
